@@ -1,7 +1,7 @@
 # LncSL
 ## Introduction
 LncSL is a tool designed for predicting the subcellular localization of long non-coding RNAs (lncRNAs) in humans. LncRNAs, which are RNA molecules exceeding 200 nucleotides in length, play crucial roles in various cellular processes. Understanding the subcellular localization of lncRNAs is essential for elucidating their functions and regulatory mechanisms. LncSL utilizes machine learning algorithms to accurately predict the subcellular positions of lncRNAs based on their sequence information.
-
+![模型架构图]()
 ## Features
 - Utilizes machine learning algorithms for predicting subcellular localization.
 - Considers both lncRNA sequence and amino acid sequence features.
